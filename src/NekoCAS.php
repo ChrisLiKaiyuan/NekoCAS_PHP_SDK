@@ -7,7 +7,7 @@
  */
 
 
-namespace NekoCAS;
+namespace NekoWheel;
 
 class NekoCAS
 {

@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "\\NekoCAS\\NekoCAS\\": "src/"
+      "NekoWheel\\NekoCAS\\": "src/"
     }
   },
   "require": {

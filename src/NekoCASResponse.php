@@ -6,7 +6,7 @@
  * Created by johnwu
  */
 
-namespace NekoCAS;
+namespace NekoWheel;
 
 
 class NekoCASResponse
