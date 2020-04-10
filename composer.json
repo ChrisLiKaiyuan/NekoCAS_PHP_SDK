@@ -1,0 +1,16 @@
+{
+  "name": "nekowheel/nekocas",
+  "description": "NekoCAS PHP SDK",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "John Wu",
+      "email": "524306184@qq.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
