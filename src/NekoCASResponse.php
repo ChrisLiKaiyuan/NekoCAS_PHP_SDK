@@ -8,7 +8,6 @@
 
 namespace NekoWheel;
 
-
 class NekoCASResponse
 {
     private $success;

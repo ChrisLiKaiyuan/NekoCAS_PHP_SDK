@@ -5,13 +5,12 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "John Wu",
-      "email": "524306184@qq.com"
+      "name": "John Wu"
     }
   ],
   "autoload": {
     "psr-4": {
-      "NekoWheel\\NekoCAS\\": "src/"
+      "NekoWheel\\": "src/"
     }
   },
   "require": {
