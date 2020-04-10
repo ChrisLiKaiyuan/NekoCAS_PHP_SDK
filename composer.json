@@ -9,6 +9,11 @@
       "email": "524306184@qq.com"
     }
   ],
+  "autoload": {
+    "psr-4": {
+      "\\NekoCAS\\NekoCAS": "src/"
+    }
+  },
   "require": {
     "ext-curl": "*",
     "ext-json": "*"
